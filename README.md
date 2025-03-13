@@ -19,6 +19,7 @@
 </div>
 
 <!--imagens formas de contato-->
+
 <div>
         <!--imagem instagram-->
         <a href="[https://www.instagram.com/ray_ol1?igsh=Y29qYWQ4ampybGhl&utm_source=qr](https://www.instagram.com/mari4.sz/?igsh=ZnVsYmtkdGMzMGVn#)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
