@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
 <!-- IDEIA DO CHAT GPT -->
-![Texto alternativo](https://github.com/luiz4a/luiz4a/blob/main/image.png?raw=true)
+![Texto alternativo](https://github.com/luiz4a/luiz4a/blob/main/Captura%20de%20tela%202025-03-23%20232949.png?raw=true)
 
 <!-- linha gradiente -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
