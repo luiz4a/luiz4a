@@ -6,9 +6,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
 <!-- IDEIA DO CHAT GPT -->
-<p align="center">
-  <img src="https://seu-banner-url-aqui.com/banner.png" alt="Banner" width="100%">
-</p>
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/YG1mLd0sAkA" type="video/mp4">
+</video>
+
 <!-- linha gradiente -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
