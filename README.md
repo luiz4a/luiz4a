@@ -21,15 +21,21 @@
 <!--imagens formas de contato-->
 
 <div>
-        <!--imagem instagram-->
-        <a href="[https://www.instagram.com/ray_ol1?igsh=Y29qYWQ4ampybGhl&utm_source=qr](https://www.instagram.com/mari4.sz/?igsh=ZnVsYmtkdGMzMGVn#)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-        <!--imagem linkedin-->
-        <a href="[https://www.linkedin.com/in/marcelly-oliveira-4a89a3301/" target="_blank](https://www.linkedin.com/in/maria-luiza-de-souza-dias-98309933a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-)"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-        <!--imagem linkedin-->
-        <a href="https://w.app/SimE3X"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-        <br><br>
+    <!-- imagem instagram -->
+    <a href="https://www.instagram.com/mari4.sz?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <!-- imagem linkedin -->
+    <a href="https://www.linkedin.com/in/maria-luiza-de-souza-dias-98309933a/">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <!-- imagem whatsapp -->
+    <a href="https://w.app/SimE3X">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+    <br><br>
 </div>
+
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens:
 <div style="display: inline_block"><br> 
