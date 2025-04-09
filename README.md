@@ -5,11 +5,8 @@
 <!-- linha gradiente -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
-<!-- IDEIA DO CHAT GPT -->
+<!-- Imagem -->
 <img src="https://github.com/luiz4a/luiz4a/blob/main/Captura%20de%20tela%202025-03-23%20232949.png?raw=true" width="100%" />
-
-<img src= "https://www.canva.com/design/DAGkGxRPI7A/7KyDmDtXcW2oJgFyF0vJ8Q/edit?utm_content=DAGkGxRPI7A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton "/>
-
 
 <!-- linha gradiente -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
