@@ -5,6 +5,12 @@
 <!-- linha gradiente -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
+  width="1010"
+  style="filter: hue-rotate(270deg) saturate(120%); margin-bottom: 20px;"
+>
+
 <!-- IDEIA DO CHAT GPT -->
 <img src="https://github.com/luiz4a/luiz4a/blob/main/Captura%20de%20tela%202025-03-23%20232949.png?raw=true" width="100%" />
 
