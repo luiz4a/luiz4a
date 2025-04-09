@@ -55,6 +55,7 @@
         <img align="center" alt="luiza-gimp" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg">
         <div style="display: inline_block"><br> 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Ferramentas:
+        <div style="display: inline_block"><br> 
         <img align="center" alt="luiza-canva" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"">
 </div> 
 
